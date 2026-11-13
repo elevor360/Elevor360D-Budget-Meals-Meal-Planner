@@ -1,0 +1,2084 @@
+[
+  {
+    "id": 1,
+    "title": "Tomato and Lentil Soup",
+    "category": "Soups",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "150g red lentils"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "900ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Dice onion and carrots and soften in oil for 5 minutes.",
+      "Add rinsed lentils tomatoes and stock and simmer 20–25 minutes until lentils are soft.",
+      "Blend partly or fully and season to taste."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "soups",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Carrot and Coriander Soup",
+    "category": "Soups",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "600g carrots"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "800ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp ground coriander"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Chop onion and carrots and cook in oil for 5 minutes.",
+      "Add coriander and stock and simmer 20 minutes until carrots soften.",
+      "Blend smooth and season."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "soups",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Potato and Leek Soup",
+    "category": "Soups",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "3 leeks"
+      },
+      {
+        "qty": "",
+        "item": "500g potatoes"
+      },
+      {
+        "qty": "",
+        "item": "900ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      },
+      {
+        "qty": "",
+        "item": "100ml milk"
+      }
+    ],
+    "steps": [
+      "Wash and slice leeks then soften in oil for 7 minutes.",
+      "Add diced potatoes and stock and simmer 20 minutes.",
+      "Blend and stir in milk then heat gently without boiling."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "soups",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pea and Mint Soup",
+    "category": "Soups",
+    "servings": 4,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "500g frozen peas"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "750ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp chopped mint"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Soften chopped onion in oil for 5 minutes.",
+      "Add stock and peas and simmer 8 minutes until peas are hot and tender.",
+      "Add mint and blend then season."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "soups",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Vegetable Minestrone",
+    "category": "Soups",
+    "servings": 4,
+    "prep": 12,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "2 celery sticks"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "400g tin cannellini beans"
+      },
+      {
+        "qty": "",
+        "item": "100g small pasta"
+      },
+      {
+        "qty": "",
+        "item": "900ml vegetable stock"
+      }
+    ],
+    "steps": [
+      "Soften diced onion carrots and celery in a splash of oil for 7 minutes.",
+      "Add tomatoes stock and drained beans and simmer 15 minutes.",
+      "Add pasta and cook according to packet until tender."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "soups",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bean and Tomato Soup",
+    "category": "Soups",
+    "servings": 4,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 tins mixed beans"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "700ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp paprika"
+      }
+    ],
+    "steps": [
+      "Soften chopped onion in a pan with a little oil.",
+      "Add drained beans tomatoes stock and paprika and simmer 15 minutes.",
+      "Mash some beans to thicken and serve."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "soups",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Spaghetti with Tomato Sauce",
+    "category": "Pasta",
+    "servings": 4,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "350g spaghetti"
+      },
+      {
+        "qty": "",
+        "item": "2 tins chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 garlic cloves"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp dried basil"
+      }
+    ],
+    "steps": [
+      "Cook spaghetti in boiling water according to packet.",
+      "Soften chopped onion in oil then add garlic for 1 minute.",
+      "Add tomatoes and basil and simmer 15 minutes then toss with drained pasta."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "pasta",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tuna and Sweetcorn Pasta",
+    "category": "Pasta",
+    "servings": 4,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "350g pasta"
+      },
+      {
+        "qty": "",
+        "item": "2 tins tuna in spring water"
+      },
+      {
+        "qty": "",
+        "item": "200g frozen sweetcorn"
+      },
+      {
+        "qty": "",
+        "item": "150g plain yoghurt"
+      },
+      {
+        "qty": "",
+        "item": "1 lemon"
+      }
+    ],
+    "steps": [
+      "Cook pasta according to packet and add sweetcorn for final 3 minutes.",
+      "Drain tuna and mix with yoghurt and lemon juice.",
+      "Toss with drained pasta and sweetcorn and season."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "pasta",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Creamy Mushroom Pasta",
+    "category": "Pasta",
+    "servings": 4,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "350g pasta"
+      },
+      {
+        "qty": "",
+        "item": "300g mushrooms"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "150g soft cheese"
+      },
+      {
+        "qty": "",
+        "item": "100ml milk"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Cook pasta according to packet and reserve a mug of cooking water.",
+      "Soften onion and sliced mushrooms in oil until browned.",
+      "Stir in soft cheese milk and a splash of pasta water then combine with pasta."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "pasta",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Pasta with Broccoli and Garlic",
+    "category": "Pasta",
+    "servings": 4,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "350g pasta"
+      },
+      {
+        "qty": "",
+        "item": "1 head broccoli"
+      },
+      {
+        "qty": "",
+        "item": "2 garlic cloves"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp olive oil"
+      },
+      {
+        "qty": "",
+        "item": "40g grated cheese"
+      }
+    ],
+    "steps": [
+      "Cook pasta in salted water and add small broccoli florets for final 4 minutes.",
+      "Gently warm chopped garlic in oil without burning.",
+      "Drain pasta and broccoli and toss with garlic oil and cheese."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "pasta",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Baked Macaroni Cheese",
+    "category": "Pasta",
+    "servings": 4,
+    "prep": 12,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "300g macaroni"
+      },
+      {
+        "qty": "",
+        "item": "40g butter"
+      },
+      {
+        "qty": "",
+        "item": "40g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "500ml milk"
+      },
+      {
+        "qty": "",
+        "item": "150g cheddar"
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C (180°C fan) and cook macaroni until just tender.",
+      "Melt butter stir in flour and cook 1 minute then whisk in milk and simmer until thick.",
+      "Stir in cheese combine with macaroni and bake 15–20 minutes until bubbling."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "pasta",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "One-Pot Tomato Orzo",
+    "category": "Pasta",
+    "servings": 4,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "300g orzo"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "750ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "100g frozen peas"
+      }
+    ],
+    "steps": [
+      "Soften chopped onion in a large pan with a little oil.",
+      "Add orzo tomatoes and stock and simmer stirring often for 12–15 minutes.",
+      "Add peas for final 4 minutes and check orzo is tender."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "pasta",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Chickpea and Spinach Curry",
+    "category": "Curries",
+    "servings": 4,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 tins chickpeas"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp curry powder"
+      },
+      {
+        "qty": "",
+        "item": "150g frozen spinach"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Soften chopped onion in oil and stir in curry powder for 1 minute.",
+      "Add drained chickpeas and tomatoes and simmer 15 minutes.",
+      "Stir in spinach and cook until piping hot then serve with rice."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "curries",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Red Lentil Dahl",
+    "category": "Curries",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250g red lentils"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp turmeric"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cumin"
+      },
+      {
+        "qty": "",
+        "item": "750ml water"
+      },
+      {
+        "qty": "",
+        "item": "200g tin chopped tomatoes"
+      }
+    ],
+    "steps": [
+      "Rinse lentils and soften diced onion in a little oil.",
+      "Add spices lentils tomatoes and water and simmer 20–25 minutes stirring regularly.",
+      "Add water if thick and cook until lentils are completely soft."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "curries",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Potato and Pea Curry",
+    "category": "Curries",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "600g potatoes"
+      },
+      {
+        "qty": "",
+        "item": "200g frozen peas"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp curry powder"
+      },
+      {
+        "qty": "",
+        "item": "200ml water"
+      }
+    ],
+    "steps": [
+      "Soften chopped onion in oil then stir in curry powder.",
+      "Add diced potatoes tomatoes and water and simmer covered 20 minutes.",
+      "Add peas and cook 5 minutes more until potatoes are tender."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "curries",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Kidney Bean Chilli",
+    "category": "Curries",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 tins kidney beans"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "1 red pepper"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cumin"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp paprika"
+      }
+    ],
+    "steps": [
+      "Soften diced onion and pepper in a little oil for 7 minutes.",
+      "Add drained beans tomatoes and spices and simmer 20 minutes.",
+      "Season and serve with rice or baked potatoes."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "curries",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Chicken and Vegetable Curry",
+    "category": "Curries",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "450g diced chicken thigh"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp mild curry powder"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Brown chicken pieces in oil then add chopped onion and carrots.",
+      "Stir in curry powder and tomatoes and simmer covered 20 minutes.",
+      "Check chicken is fully cooked and reaches 75°C at thickest point before serving."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "curries",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Coconut Lentil Curry",
+    "category": "Curries",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200g red lentils"
+      },
+      {
+        "qty": "",
+        "item": "400ml tin light coconut milk"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp curry paste"
+      },
+      {
+        "qty": "",
+        "item": "300ml water"
+      },
+      {
+        "qty": "",
+        "item": "100g frozen peas"
+      }
+    ],
+    "steps": [
+      "Soften chopped onion and curry paste in a little oil.",
+      "Add rinsed lentils coconut milk and water and simmer 20 minutes.",
+      "Stir in peas and cook 5 minutes until lentils are soft."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "curries",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Egg Fried Rice",
+    "category": "Rice",
+    "servings": 4,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "300g cooked chilled rice"
+      },
+      {
+        "qty": "",
+        "item": "3 eggs"
+      },
+      {
+        "qty": "",
+        "item": "150g frozen peas"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp soy sauce"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Use rice cooled quickly and refrigerated promptly then reheat only once.",
+      "Stir-fry diced carrots and peas in oil until tender then push to side.",
+      "Scramble eggs until fully set add rice and soy sauce and stir-fry until piping hot throughout."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "rice",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Vegetable Rice Pilaf",
+    "category": "Rice",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250g long-grain rice"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "1 carrot"
+      },
+      {
+        "qty": "",
+        "item": "150g frozen peas"
+      },
+      {
+        "qty": "",
+        "item": "600ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Rinse rice and soften chopped onion and carrot in oil.",
+      "Add rice and hot stock bring to boil then cover and simmer gently 15 minutes.",
+      "Add peas for final 5 minutes and rest covered until rice is tender."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "rice",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Tomato and Bean Rice",
+    "category": "Rice",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250g rice"
+      },
+      {
+        "qty": "",
+        "item": "1 tin black beans"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "350ml vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp paprika"
+      }
+    ],
+    "steps": [
+      "Soften chopped onion and paprika in oil.",
+      "Stir in rice tomatoes and stock cover and simmer 15 minutes.",
+      "Add drained beans and cook 5–10 minutes more until rice is tender and liquid absorbed."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "rice",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Mushroom Risotto",
+    "category": "Rice",
+    "servings": 4,
+    "prep": 12,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "300g risotto rice"
+      },
+      {
+        "qty": "",
+        "item": "300g mushrooms"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "1 litre hot vegetable stock"
+      },
+      {
+        "qty": "",
+        "item": "30g grated hard cheese"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Soften onion and sliced mushrooms in oil then add risotto rice.",
+      "Add hot stock a ladle at a time stirring until absorbed for 20–25 minutes.",
+      "When rice is tender and creamy stir in cheese and serve immediately."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "rice",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Lentil Shepherd's Pie",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 50,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200g green lentils"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "700g potatoes"
+      },
+      {
+        "qty": "",
+        "item": "50ml milk"
+      }
+    ],
+    "steps": [
+      "Cook lentils according to packet until tender and boil potatoes until soft.",
+      "Soften onion and carrots add tomatoes and cooked lentils then simmer 10 minutes.",
+      "Mash potatoes with milk spread over filling and bake at 200°C (180°C fan) for 20 minutes."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Sausage and Bean Casserole",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 40,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "6 pork sausages"
+      },
+      {
+        "qty": "",
+        "item": "2 tins cannellini beans"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      }
+    ],
+    "steps": [
+      "Brown sausages in a casserole pan then set aside.",
+      "Soften onion and carrot add tomatoes drained beans and sausages and simmer covered 25 minutes.",
+      "Check sausages are cooked through and reach 75°C in centre."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Vegetable Cottage Pie",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 45,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 tins mixed beans"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "150g frozen peas"
+      },
+      {
+        "qty": "",
+        "item": "400g tin chopped tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "700g potatoes"
+      }
+    ],
+    "steps": [
+      "Boil potatoes until tender and mash with a little milk.",
+      "Soften diced onion and carrots then add beans tomatoes and peas and simmer 15 minutes.",
+      "Top with mash and bake at 200°C (180°C fan) for 20 minutes."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Chicken Traybake with Potatoes",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 50,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "4 chicken thighs"
+      },
+      {
+        "qty": "",
+        "item": "700g potatoes"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp oil"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp mixed herbs"
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C (180°C fan) and cut vegetables into even pieces.",
+      "Toss vegetables with oil and herbs and arrange chicken thighs on top.",
+      "Roast 40–50 minutes turning vegetables halfway and confirm chicken reaches 75°C."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Baked Beans on Jacket Potatoes",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 65,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "4 baking potatoes"
+      },
+      {
+        "qty": "",
+        "item": "2 tins baked beans"
+      },
+      {
+        "qty": "",
+        "item": "60g grated cheddar"
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C (180°C fan) and prick potatoes.",
+      "Bake 55–65 minutes until soft inside or microwave first and finish in oven.",
+      "Heat beans until piping hot split potatoes and top with beans and cheese."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Vegetable Frittata",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 30,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "6 eggs"
+      },
+      {
+        "qty": "",
+        "item": "1 courgette"
+      },
+      {
+        "qty": "",
+        "item": "1 red pepper"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "70g grated cheddar"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan) and soften diced vegetables in ovenproof frying pan.",
+      "Beat eggs with cheese and pour over vegetables.",
+      "Cook gently 3 minutes then transfer to oven for 12–15 minutes until eggs fully set."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Bean and Cheese Quesadillas",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "8 flour tortillas"
+      },
+      {
+        "qty": "",
+        "item": "1 tin kidney beans"
+      },
+      {
+        "qty": "",
+        "item": "150g grated cheddar"
+      },
+      {
+        "qty": "",
+        "item": "1 red pepper"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp tomato salsa"
+      }
+    ],
+    "steps": [
+      "Mash drained beans with salsa and finely diced pepper.",
+      "Spread over four tortillas add cheese and top with remaining tortillas.",
+      "Cook in dry frying pan 3–4 minutes each side until hot and cheese melted."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Homemade Vegetable Pizza",
+    "category": "Main Meals",
+    "servings": 4,
+    "prep": 12,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 ready-made pizza bases"
+      },
+      {
+        "qty": "",
+        "item": "150ml passata"
+      },
+      {
+        "qty": "",
+        "item": "150g mozzarella"
+      },
+      {
+        "qty": "",
+        "item": "1 pepper"
+      },
+      {
+        "qty": "",
+        "item": "1 small onion"
+      },
+      {
+        "qty": "",
+        "item": "100g mushrooms"
+      }
+    ],
+    "steps": [
+      "Heat oven to 220°C (200°C fan) and spread passata over pizza bases.",
+      "Top with sliced vegetables and mozzarella.",
+      "Bake 12–18 minutes until crust is golden and cheese bubbling."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "main meals",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Porridge with Banana",
+    "category": "Breakfast",
+    "servings": 2,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "100g rolled oats"
+      },
+      {
+        "qty": "",
+        "item": "400ml milk"
+      },
+      {
+        "qty": "",
+        "item": "2 bananas"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      }
+    ],
+    "steps": [
+      "Put oats and milk in saucepan and heat gently stirring for 5–7 minutes.",
+      "When creamy and oats are soft spoon into bowls.",
+      "Top with sliced banana and cinnamon."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Classic Overnight Oats",
+    "category": "Breakfast",
+    "servings": 2,
+    "prep": 12,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "80g rolled oats"
+      },
+      {
+        "qty": "",
+        "item": "150ml milk"
+      },
+      {
+        "qty": "",
+        "item": "150g natural yoghurt"
+      },
+      {
+        "qty": "",
+        "item": "100g berries"
+      }
+    ],
+    "steps": [
+      "Stir oats milk and yoghurt together in a covered container.",
+      "Refrigerate for at least 6 hours or overnight without cooking.",
+      "Stir and top with washed berries before serving."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Scrambled Eggs on Toast",
+    "category": "Breakfast",
+    "servings": 2,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "4 eggs"
+      },
+      {
+        "qty": "",
+        "item": "4 slices wholemeal bread"
+      },
+      {
+        "qty": "",
+        "item": "20g butter"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp milk"
+      }
+    ],
+    "steps": [
+      "Beat eggs with milk and melt butter in a non-stick pan over low heat.",
+      "Stir eggs gently until fully set but still soft.",
+      "Toast bread and serve eggs immediately."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Banana Pancakes",
+    "category": "Breakfast",
+    "servings": 2,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 ripe bananas"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "80g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp baking powder"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp oil"
+      }
+    ],
+    "steps": [
+      "Mash bananas and whisk with eggs flour and baking powder.",
+      "Heat lightly oiled pan and spoon small pancakes.",
+      "Cook 2–3 minutes per side until golden and cooked through."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Beans and Eggs on Toast",
+    "category": "Breakfast",
+    "servings": 2,
+    "prep": 12,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "4 slices bread"
+      },
+      {
+        "qty": "",
+        "item": "1 tin baked beans"
+      },
+      {
+        "qty": "",
+        "item": "2 eggs"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp oil"
+      }
+    ],
+    "steps": [
+      "Heat baked beans in a saucepan until piping hot.",
+      "Fry or scramble eggs until fully cooked to preference.",
+      "Toast bread and top with beans and eggs."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Peanut Butter Banana Toast",
+    "category": "Breakfast",
+    "servings": 2,
+    "prep": 12,
+    "cook": 5,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "4 slices wholemeal bread"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp peanut butter"
+      },
+      {
+        "qty": "",
+        "item": "2 bananas"
+      }
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Spread with peanut butter and top with sliced bananas.",
+      "Serve immediately and check peanut allergy before preparing."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Apple Cinnamon Porridge",
+    "category": "Breakfast",
+    "servings": 2,
+    "prep": 12,
+    "cook": 12,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "100g rolled oats"
+      },
+      {
+        "qty": "",
+        "item": "400ml milk"
+      },
+      {
+        "qty": "",
+        "item": "1 apple"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp honey"
+      }
+    ],
+    "steps": [
+      "Dice apple and soften in small pan with splash of water for 4 minutes.",
+      "Cook oats with milk and cinnamon for 5–7 minutes stirring.",
+      "Top porridge with apple and drizzle honey."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "breakfast",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Tuna Jacket Potato",
+    "category": "Lunches",
+    "servings": 2,
+    "prep": 12,
+    "cook": 60,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 baking potatoes"
+      },
+      {
+        "qty": "",
+        "item": "1 tin tuna in spring water"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp plain yoghurt"
+      },
+      {
+        "qty": "",
+        "item": "1 spring onion"
+      }
+    ],
+    "steps": [
+      "Bake pricked potatoes at 200°C (180°C fan) until tender about 50–60 minutes.",
+      "Drain tuna and mix with yoghurt and chopped spring onion.",
+      "Split hot potatoes and fill with tuna mixture."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "lunches",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Hummus and Carrot Wraps",
+    "category": "Lunches",
+    "servings": 2,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 tortilla wraps"
+      },
+      {
+        "qty": "",
+        "item": "100g hummus"
+      },
+      {
+        "qty": "",
+        "item": "2 carrots"
+      },
+      {
+        "qty": "",
+        "item": "1/2 cucumber"
+      },
+      {
+        "qty": "",
+        "item": "50g lettuce"
+      }
+    ],
+    "steps": [
+      "Wash and grate carrots and slice cucumber.",
+      "Spread hummus over wraps and layer vegetables and lettuce.",
+      "Roll tightly and cut in half."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "lunches",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Cheese and Tomato Toasties",
+    "category": "Lunches",
+    "servings": 2,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "4 slices bread"
+      },
+      {
+        "qty": "",
+        "item": "80g cheddar"
+      },
+      {
+        "qty": "",
+        "item": "1 tomato"
+      },
+      {
+        "qty": "",
+        "item": "10g butter"
+      }
+    ],
+    "steps": [
+      "Butter outside of bread and fill with grated cheese and thin tomato slices.",
+      "Toast in sandwich press or dry frying pan over medium heat.",
+      "Turn once and cook until cheese melted and bread golden."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "lunches",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Egg Mayo Sandwiches",
+    "category": "Lunches",
+    "servings": 2,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "4 eggs"
+      },
+      {
+        "qty": "",
+        "item": "4 slices bread"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp mayonnaise"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp mustard"
+      },
+      {
+        "qty": "",
+        "item": "handful lettuce"
+      }
+    ],
+    "steps": [
+      "Boil eggs for 10 minutes until fully hard cooked then cool promptly.",
+      "Peel chop and mix with mayonnaise and mustard.",
+      "Fill bread with egg mixture and lettuce and refrigerate if not eating immediately."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "lunches",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Chickpea Salad Bowls",
+    "category": "Lunches",
+    "servings": 2,
+    "prep": 12,
+    "cook": 10,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "1 tin chickpeas"
+      },
+      {
+        "qty": "",
+        "item": "1 cucumber"
+      },
+      {
+        "qty": "",
+        "item": "2 tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "1/2 red onion"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp olive oil"
+      },
+      {
+        "qty": "",
+        "item": "1 lemon"
+      }
+    ],
+    "steps": [
+      "Drain and rinse chickpeas and chop washed vegetables.",
+      "Combine in bowls and toss with olive oil and lemon juice.",
+      "Season and serve cold."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "lunches",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Vegetable Noodle Stir Fry",
+    "category": "Lunches",
+    "servings": 2,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "150g dried noodles"
+      },
+      {
+        "qty": "",
+        "item": "1 carrot"
+      },
+      {
+        "qty": "",
+        "item": "1 red pepper"
+      },
+      {
+        "qty": "",
+        "item": "100g cabbage"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp soy sauce"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Cook noodles according to packet and drain.",
+      "Stir-fry thinly sliced vegetables in hot oil for 5–7 minutes.",
+      "Add noodles and soy sauce and toss until piping hot."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "lunches",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Cheesy Baked Pasta Leftovers",
+    "category": "Leftovers",
+    "servings": 2,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250g cooked refrigerated pasta"
+      },
+      {
+        "qty": "",
+        "item": "150ml passata"
+      },
+      {
+        "qty": "",
+        "item": "80g cheddar"
+      },
+      {
+        "qty": "",
+        "item": "100g frozen peas"
+      }
+    ],
+    "steps": [
+      "Heat oven to 200°C (180°C fan) and place previously chilled cooked pasta in ovenproof dish.",
+      "Stir in passata peas and cheese.",
+      "Bake 15–20 minutes until piping hot throughout and serve immediately."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "leftovers",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Vegetable Bubble and Squeak",
+    "category": "Leftovers",
+    "servings": 2,
+    "prep": 12,
+    "cook": 15,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "300g cooked chilled potatoes"
+      },
+      {
+        "qty": "",
+        "item": "200g cooked chilled cabbage"
+      },
+      {
+        "qty": "",
+        "item": "1 onion"
+      },
+      {
+        "qty": "",
+        "item": "1 tbsp oil"
+      }
+    ],
+    "steps": [
+      "Mash cooked chilled potatoes and finely chop cabbage and onion.",
+      "Mix together and form four patties.",
+      "Pan-fry in oil for 5–7 minutes per side until browned and piping hot throughout."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "leftovers",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Chicken and Rice Soup",
+    "category": "Leftovers",
+    "servings": 4,
+    "prep": 12,
+    "cook": 25,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "200g cooked chilled chicken"
+      },
+      {
+        "qty": "",
+        "item": "150g cooked chilled rice"
+      },
+      {
+        "qty": "",
+        "item": "1 carrot"
+      },
+      {
+        "qty": "",
+        "item": "1 celery stick"
+      },
+      {
+        "qty": "",
+        "item": "900ml chicken stock"
+      }
+    ],
+    "steps": [
+      "Bring stock to a simmer and add diced carrot and celery.",
+      "Cook 12–15 minutes until vegetables are tender.",
+      "Add safely chilled cooked chicken and rice and heat until piping hot throughout and do not reheat again."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "leftovers",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Bean Burrito Bowls",
+    "category": "Leftovers",
+    "servings": 4,
+    "prep": 12,
+    "cook": 20,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "250g dry rice"
+      },
+      {
+        "qty": "",
+        "item": "1 tin black beans"
+      },
+      {
+        "qty": "",
+        "item": "150g frozen sweetcorn"
+      },
+      {
+        "qty": "",
+        "item": "2 tomatoes"
+      },
+      {
+        "qty": "",
+        "item": "2 tbsp salsa"
+      }
+    ],
+    "steps": [
+      "Cook rice according to packet and keep hot.",
+      "Heat drained beans and sweetcorn in pan until piping hot.",
+      "Serve over rice with chopped tomatoes and salsa."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "leftovers",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Simple Apple Crumble",
+    "category": "Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 35,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "500g cooking apples"
+      },
+      {
+        "qty": "",
+        "item": "100g plain flour"
+      },
+      {
+        "qty": "",
+        "item": "60g cold butter"
+      },
+      {
+        "qty": "",
+        "item": "50g light brown sugar"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      }
+    ],
+    "steps": [
+      "Heat oven to 190°C (170°C fan) and place peeled sliced apples in baking dish.",
+      "Rub butter into flour and mix in sugar and cinnamon.",
+      "Scatter topping over apples and bake 30–35 minutes until fruit soft and top golden."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "desserts",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Banana Oat Cookies",
+    "category": "Desserts",
+    "servings": 12,
+    "prep": 12,
+    "cook": 18,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "2 ripe bananas"
+      },
+      {
+        "qty": "",
+        "item": "150g rolled oats"
+      },
+      {
+        "qty": "",
+        "item": "50g raisins"
+      },
+      {
+        "qty": "",
+        "item": "1 tsp cinnamon"
+      }
+    ],
+    "steps": [
+      "Heat oven to 180°C (160°C fan) and line baking tray.",
+      "Mash bananas and stir in oats raisins and cinnamon.",
+      "Spoon 12 mounds onto tray flatten and bake 15–18 minutes until firm and golden."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "desserts",
+      "budget",
+      "family"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Homemade Rice Pudding",
+    "category": "Desserts",
+    "servings": 4,
+    "prep": 12,
+    "cook": 45,
+    "ingredients": [
+      {
+        "qty": "",
+        "item": "100g pudding rice"
+      },
+      {
+        "qty": "",
+        "item": "700ml milk"
+      },
+      {
+        "qty": "",
+        "item": "40g caster sugar"
+      },
+      {
+        "qty": "",
+        "item": "1/2 tsp cinnamon"
+      }
+    ],
+    "steps": [
+      "Heat oven to 160°C (140°C fan) and butter an ovenproof dish.",
+      "Mix rice milk and sugar in dish and sprinkle cinnamon.",
+      "Bake 40–45 minutes stirring once until rice is tender and creamy."
+    ],
+    "notes": "Budget tip: compare unit prices, use own-brand ingredients and check offers. No fixed cost is quoted because UK shop prices vary. Store and reheat leftovers safely.",
+    "tags": [
+      "desserts",
+      "budget",
+      "family"
+    ]
+  }
+]
